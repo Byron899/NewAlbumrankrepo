@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from "react";
 
-const API_URL = "https://albumranking-backend.onrender.com/albums";
+const API_URL = "https://albumbackende-1.onrender.com";
 
 function App() {
   const [albums, setAlbums] = useState([]);
